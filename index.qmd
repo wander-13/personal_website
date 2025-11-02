@@ -1,0 +1,20 @@
+---
+title: "personal_website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+#| label: Initializing libraries
+#| message: true
+#| warning: true
+#| include: false
+library(dplyr)
+library(tidyr)
+library(broom)
+library(lubridate)
+
+print("")
+```

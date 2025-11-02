@@ -2,7 +2,7 @@
 title: "personal_website"
 ---
 
-This is a Quarto website.
+This is a Quarto website. Stinks in here!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
@@ -16,5 +16,4 @@ library(tidyr)
 library(broom)
 library(lubridate)
 
-print("")
 ```

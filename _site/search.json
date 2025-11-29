@@ -2,15 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Education and Professional Experience",
     "section": "",
-    "text": "About this site"
+    "text": "About this guy. He’s a stinker, pee yew!\nNo embedding a pdf here. gotta think of something else.\nHow about typing directly into the .qmd?\n\n\nElin Swank\n\n\n1-336-263-2594\nelinswank@gmail.com\nhttps://github.com/wander-13"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal_website",
+    "title": "Front Door",
     "section": "",
-    "text": "This is a Quarto website. Stinks in here!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is Elin’s Quarto website. Stinks in here!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html#elin-swank",
+    "href": "about.html#elin-swank",
+    "title": "Education and Professional Experience",
+    "section": "Elin Swank",
+    "text": "Elin Swank\n\n\nElin Swank\n\n1-336-263-2594\nelinswank@gmail.com\nhttps://github.com/wander-13"
   }
 ]

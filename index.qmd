@@ -1,19 +1,10 @@
 ---
-title: "personal_website"
+title: "Front Door"
 ---
 
-This is a Quarto website. Stinks in here!
+This is Elin's Quarto website. Stinks in here!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-#| label: Initializing libraries
-#| message: true
-#| warning: true
-#| include: false
-library(dplyr)
-library(tidyr)
-library(broom)
-library(lubridate)
-
+```         
 ```

@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   resources: 
     - "~/Desktop/R/personal_website/_site/Swank_Elin_Resume_CV_copy.pdf"
 

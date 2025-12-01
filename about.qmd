@@ -23,3 +23,5 @@ elinswank\@gmail.com
 </p>
 
 </center>
+
+This kinda works but I want some more control over the formatting of text.

@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Education and Professional Experience",
+    "section": "",
+    "text": "About this guy. He’s a stinker, pee yew!\nNo embedding a pdf here. gotta think of something else.\nHow about typing directly into the .qmd?\nThis kinda works but I want some more control over the formatting of text.\n\n\nElin Swank\n\n\n1-336-263-2594\nelinswank@gmail.com\nhttps://github.com/wander-13"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Front Door",
+    "section": "",
+    "text": "This is Elin’s Quarto website. Stinks in here!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]

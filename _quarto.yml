@@ -8,7 +8,7 @@ execute:
   freeze: auto
 
 website:
-  title: "websitE"
+  title: "wander-13"
   navbar:
     left:
       - href: index.qmd
@@ -18,8 +18,8 @@ website:
 format:
   html:
     theme:
+      - custom_theme.scss
       - cosmo
-      - brand
     css: styles.css
     toc: true
 

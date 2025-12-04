@@ -2,9 +2,6 @@
 title: "Front Door"
 ---
 
-This is Elin's Quarto website. Stinks in here!
+Link to other pages, with short description underneath.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```         
-```
+[quarto.org](https://quarto.org)

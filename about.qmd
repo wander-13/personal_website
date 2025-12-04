@@ -2,17 +2,9 @@
 title: "Education and Professional Experience"
 ---
 
-About this guy. He's a stinker, pee yew!
-
-No embedding a pdf here. gotta think of something else.
-
-How about typing directly into the .qmd?
-
 <center>
 
 <h1>Elin Swank</h1>
-
-<p style="line-height: 1;">
 
 1-336-263-2594
 
@@ -20,8 +12,4 @@ elinswank\@gmail.com
 
 <https://github.com/wander-13>
 
-</p>
-
 </center>
-
-This kinda works but I want some more control over the formatting of text.

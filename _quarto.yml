@@ -19,7 +19,6 @@ format:
   html:
     theme:
       - custom_theme.scss
-      - cosmo
     css: styles.css
     toc: true
 

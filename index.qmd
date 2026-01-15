@@ -1,7 +1,5 @@
 ---
-title: "Front Door"
+title: "Quarto info"
 ---
-
-Link to other pages, with short description underneath.
 
 [quarto.org](https://quarto.org)

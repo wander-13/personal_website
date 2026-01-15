@@ -9,15 +9,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Front Door",
+    "title": "Quarto info",
     "section": "",
-    "text": "Link to other pages, with short description underneath.\nquarto.org"
-  },
-  {
-    "objectID": "custom_theme.scss.html",
-    "href": "custom_theme.scss.html",
-    "title": "custom_theme.scss",
-    "section": "",
-    "text": "/– scss:defaults –/\n$h2-font-size: 1.6rem !default;\n$$headings-font-weight: 500 !default;\n/– scss:rules –/ h1, h2, h3, h4, h5, h6 {\ntext-shadow: -1px -1px 0 rgba(0, 0, 0, .3);\n}"
+    "text": "quarto.org"
   }
 ]

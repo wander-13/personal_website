@@ -24,8 +24,8 @@ $indigo:  #6610f2 !default;
 $purple:  #613d7c !default;
 $pink:    #e83e8c !default;
 $red:     #ff0039 !default;
-$orange:  #f0ad4e !default;
-$yellow:  #ff7518 !default;
+$orange:  #ff7518 !default;  
+$yellow:  #f0ad4e !default;
 $green:   #3fb618 !default;
 $teal:    #20c997 !default;
 $cyan:    #9954bb !default;
@@ -45,6 +45,7 @@ $scifi-terminal-text: #33ff66 !default;
 $orange-glow: #FF5F1F !default;
 $red-glow: #FD1C03 !default;
 $pink-glow: #F535AA !default;
+$purple-glow: #9D00FF !default;
 
 $min-contrast-ratio:   2.6 !default;
 
@@ -56,15 +57,13 @@ $link_color: $pink-glow !default;
 
 // Titles;
 .title { text-align: center;
-  color: $red-glow !default;
-} // Centers .qmd "Title:"
-$title-color: $orange-glow !default;
+  color: $purple-glow
+} // Centers .qmd "Title:" and color
 
 //Headings
-$headings-color: $orange-glow !default;
+$headings-color: $red-glow !default;
 
-
-// Body
+// Body 
 $body-bg: $scifi-terminal !default;
 $body-color: $scifi-terminal-text !default;
 
@@ -75,9 +74,9 @@ $font-family-sans-serif:    "Source Sans Pro", -apple-system, BlinkMacSystemFont
 $headings-font-weight:      400 !default;
 
 // Navbar
-$navbar-bg: $black !default;
-$navbar-dark-hover-color:       rgba($white, 1) !default;
-$navbar-light-hover-color:      rgba($black, .9) !default;
+$navbar-bg: $purple !default;
+$navbar-fg: $orange-glow !default;
+$navbar-hl:  $yellow !default;
 
 // Alerts
 

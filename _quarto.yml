@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - "~/Desktop/R/personal_website/_site/Swank_Elin_Resume_CV_copy.pdf"
+      - "personal_website/Swank_Elin_Resume_CV_ copy.pdf"
 
 execute:
   freeze: auto
@@ -12,8 +12,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Front Door
+        text: Home
       - about.qmd
+      - resume.qmd
 
 format:
   html:

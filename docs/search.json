@@ -2,14 +2,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Education and Professional Experience",
+    "title": "Contact Information",
     "section": "",
-    "text": "Elin Swank\n\n1-336-263-2594\nelinswank@gmail.com\nhttps://github.com/wander-13"
+    "text": "Elin Swank\n\n\n\nPhone:\n\n1-336-263-2594\n\nEmail:\n\nelinswank@gmail.com\n\nGitHub:\n\nhttps://github.com/wander-13"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Your browser does not support PDFs. Please download the PDF to view it: Download PDF."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto info",
+    "title": "Site Information",
     "section": "",
     "text": "quarto.org"
   }

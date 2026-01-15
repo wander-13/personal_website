@@ -1,15 +1,11 @@
 ---
-title: "Education and Professional Experience"
+title: "Contact Information"
 ---
 
-<center>
+<center><h1>Elin Swank</h1></center>
 
-<h1>Elin Swank</h1>
+<h4>Phone:</h4> 1-336-263-2594
 
-1-336-263-2594
+<h4>Email:</h4> elinswank\@gmail.com
 
-elinswank\@gmail.com
-
-<https://github.com/wander-13>
-
-</center>
+<h4>GitHub:</h4> <https://github.com/wander-13>

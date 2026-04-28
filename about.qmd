@@ -2,10 +2,20 @@
 title: "Contact Information"
 ---
 
-<center><h1>Elin Swank</h1></center>
+<center>
 
-<h4>Phone:</h4> 1-336-263-2594
+<h1>Elin Swank</h1>
 
-<h4>Email:</h4> elinswank\@gmail.com
+</center>
 
-<h4>GitHub:</h4> <https://github.com/wander-13>
+<h4>Phone:</h4>
+
+1-336-263-2594
+
+<h4>Email:</h4>
+
+elinswank\@gmail.com
+
+<h4>GitHub:</h4>
+
+<https://github.com/wander-13>

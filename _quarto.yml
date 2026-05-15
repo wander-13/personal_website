@@ -15,6 +15,7 @@ website:
         text: Home
       - about.qmd
       - resume.qmd
+      - mastersthesis.qmd
 
 format:
   html:
